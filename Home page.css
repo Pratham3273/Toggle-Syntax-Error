@@ -1,0 +1,136 @@
+
+
+/* akriti stuff */
+
+a:hover{
+    color:#FEFCF3;
+}
+
+#first-page{
+    background-color: #FAF8F1;
+    text-align: center;
+    padding-top: 150px;
+    
+    }
+
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 100px;
+    color: #C58940;
+   
+}
+
+p{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    
+}
+
+.home-button{
+    padding-top: 60px ;
+}
+
+
+.home1{
+    width: 30%;
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+}
+.home2{
+    width: 32%;
+    position: relative;
+    right: 700px;
+    
+    
+}
+.btn{
+    
+   font-size: 15px;
+   width: 15%;
+}
+
+/* info section */
+
+
+.info{
+    background-color:  #f7efd3;
+    padding: 100px 0 100px 0;
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    text-align: center;
+    margin: 40px 40px 0 40px;
+    
+}
+.card-header{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-text{
+    margin: 15px 25px 25px;
+    text-align: center;
+    
+}
+
+
+h4{
+    font-size: 18px;
+}
+
+/* second-page */
+
+
+#second-page{
+    background-color: #F2DEBA;
+    padding: 150px 0 200px 250px;
+    
+    
+}
+.content-img{
+    width: 50%;
+    position: relative;
+    right: 150px;
+    bottom: 120px;
+    float: left;
+    
+    
+}
+
+.content{
+   position: relative;
+   right: 30px;
+   padding-right: 100px;
+}
+
+.content-btn{
+    margin-top: 50px ;
+    width: 15%;
+}
+
+
+h2{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 90px;
+    color: #C58940;
+    
+}
+
+/* base-content */
+
+#base{
+    background-color: #FEFCF3;
+    padding: 40px;
+}
+.base-content{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 50px;
+    position: relative;
+    right: 300px;
+
+}
